@@ -1,0 +1,11 @@
+#JumperGame {
+    width: 400px;
+    height: 150px;
+    border: 1px solid blue; 
+}
+
+#player{
+    width: 30px;
+    height: 60px; 
+    background-color: blueviolet;
+}
